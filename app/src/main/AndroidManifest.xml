@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.kelompok13.uapmobile">
+
+    <application
+        android:allowBackup="true"
+        android:dataExtractionRules="@xml/data_extraction_rules"
+        android:fullBackupContent="@xml/backup_rules"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.UAPMobile"
+        tools:targetApi="31">
+        <activity
+            android:name=".TanOrganik"
+            android:exported="false" />
+        <activity
+            android:name=".AdmPajak"
+            android:exported="false" />
+        <activity
+            android:name=".TRJJ"
+            android:exported="false" />
+        <activity
+            android:name=".TekTernak"
+            android:exported="false" />
+        <activity
+            android:name=".TekBenih"
+            android:exported="false" />
+        <activity
+            android:name=".PTernak"
+            android:exported="false" />
+        <activity
+            android:name=".PerikananTangkap"
+            android:exported="false" />
+        <activity
+            android:name=".Peternakan"
+            android:exported="false" />
+        <activity
+            android:name=".Budidaya_Perikanan"
+            android:exported="false" />
+        <activity
+            android:name=".Patiseri"
+            android:exported="false" />
+        <activity
+            android:name=".Agroindustri"
+            android:exported="false" />
+        <activity
+            android:name=".TRKI"
+            android:exported="false" />
+        <activity
+            android:name=".Teknologi_Pangan"
+            android:exported="false" />
+        <activity
+            android:name=".Mekanisasi_Pertanian"
+            android:exported="false" />
+        <activity
+            android:name=".TSL_Lingkungan"
+            android:exported="false" />
+        <activity
+            android:name=".Tektan"
+            android:exported="false" />
+        <activity
+            android:name=".Pengelolaan_Kopi"
+            android:exported="false" />
+        <activity
+            android:name=".PMIPKebun"
+            android:exported="false" />
+        <activity
+            android:name=".PTK_Kebun"
+            android:exported="false" />
+        <activity
+            android:name=".BDT_Kebun"
+            android:exported="false" />
+        <activity
+            android:name=".TekBen"
+            android:exported="false" />
+        <activity
+            android:name=".TPTH"
+            android:exported="false" />
+        <activity
+            android:name=".PTPPangan"
+            android:exported="false" />
+        <activity
+            android:name=".Hortikultura"
+            android:exported="false" />
+        <activity
+            android:name=".BDP_Pangan"
+            android:exported="false" />
+        <activity
+            android:name=".Hotel"
+            android:exported="false" />
+        <activity
+            android:name=".PengAgri"
+            android:exported="false" />
+        <activity
+            android:name=".AgriPangan"
+            android:exported="false" />
+        <activity
+            android:name=".Perpajakan"
+            android:exported="false" />
+        <activity
+            android:name=".BisnisDigital"
+            android:exported="false" />
+        <activity
+            android:name=".Pariwisata"
+            android:exported="false" />
+        <activity
+            android:name=".ManInf"
+            android:exported="false" />
+        <activity
+            android:name=".Ekbis"
+            android:exported="false" />
+        <activity
+            android:name=".MenuUtama"
+            android:exported="false" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

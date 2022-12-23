@@ -1,0 +1,511 @@
+<resources>
+    <string name="app_name">Wonderful Polinela Apps</string>
+    <string name="text1">
+        Program studi Hortikultura menyiapkan lulusan untuk membangun masa depannya yang cerah.
+        Lulusan program studi ini akan mampu berkompetisi dalam masyarakat berbasis IPTEK dengan
+        dasar kemampuan teknis dan manajerial agribisnis hortikultura.
+        \n\n
+        Sasaran Program Studi yaitu menyiapkan lulusan yang mempunyai kemampuan sebagai Manager Produksi,
+        Wirausahawan, Penyuluh, Asisten Peneliti di bidang Hortikultura, dan Penata taman
+    </string>
+
+    <string name="text2">
+        Program Studi D3 Produksi Tanaman Pangan (Prodi D3 PTP) berada di bawah Jurusan Budidaya
+        Tanaman Pangan yang merupakan salah satu dari lima jurusan yang dikelola oleh Politeknik
+        Negeri Lampung. Keberadaan Prodi D3 PTP bersamaan dengan  berdirinya Politeknik Pertanian
+        Universitas Lampung tanggal 7 April 1984 (SK Dirjen Dikti nomor: 14/DIKTI/KEP/1984).
+        \n\n
+        Sejak tanggal 7 April 2001 Politeknik Negeri Lampung dinyatakan mandiri dari PT Pembina
+        (Universitas Lampung) berdasarkan SK Dirjen Dikti nomor 036/O/2001. Prodi D3 PTP Politeknik
+        Pertanian Negeri merupakan program yang digagas oleh pemerintah dalam rangka mendukung program
+        ketahanan, sebagai penghasil tenaga terampil, inovatif, dan profesional “upper middle level”
+        dalam bidang produksi tanaman pangan.
+    </string>
+
+    <string name="text3">
+        Program Studi (Prodi) Teknologi Produksi Tanaman Hortikultura (TPTH) merupakan Program Studi S1 terapan
+        yang berada di bawah Jurusan Tanaman Pangan, Politeknik Negeri Lampung. Nomenklatur dan jenjang Program
+        Studi Teknologi Produksi Tanaman Hortikultura terdapat pada lampiran perubahan Permendikbud no. 154 tahun
+        2014 (lampiran 1.1), tentang Rumpun Ilmu Pengetahuan dan Teknologi serta Gelar Lulusan Perguruan Tinggi, yang
+        kemudian diselaraskan oleh Kementerian Riset, Teknologi dan Pendidikan Tinggi Nomor : 0404/E3.2/2015 pada
+        tanggal 2 Februari 2015. Pembukaaan Program Studi D4 TPTH berdasarkan SK Kemenristekdikti No. 410/KPT/I/2016
+        tanggal 14 September 2016.
+    </string>
+
+    <string name="text4">
+        <b>Visi</b>
+        \n\n
+        “Menjadi program keahlian terapan unggulan dalam menghasilkan tenaga Sarjana Terapan yang berintegritas
+        tinggi, Inovatif, berjiwa wirausaha, dan  berkompeten dalam kegiatan teknologi benih tanaman tropika”.
+        \n\n
+        <b>Misi</b>
+        \n\n
+        1. Melaksanakan pendidikan vokasi yang mengacu pada kurikulum KKNI.
+        \n\n
+        2. Melaksanakan penelitian terapan untuk menghasilkan teknologi di bidang perbenihan tanaman tropika.
+        \n\n
+        3. Melaksanakan pengabdian kepada masyarakat dalam rangka alih teknologi untuk meningkatkan pengetahuan
+        dan kesejahteraan masyarakat.
+        \n\n
+        4. Membangun suasana akademik yang kondusif, serta sarana dan prasarana kegiatan proses belajar mengajar
+        (PBM) yang relevan.
+        \n\n
+        5. Membangun pusat pengkajian dan pengembangan teknologi perbenihan tanaman tropika (serealia, palawija,
+        ubi-ubian, hortikultura, tanaman perkebuan, dan tanaman kehutanan).
+        \n\n
+        6. Menyediakan sarana belajar dan alih teknologi bagi lulusan sekolah menengah umum dan kejuruan, serta
+        pelaku bisnis, pelatihan bagi petani, pertukaran informasi dengan pelaku bisnis dan pemerintah.
+        \n\n
+        7. Meningkatkan kerjasama dengan instansi pemerintah, BUMN, dan swasta di bidang perbenihan tanaman tropika.
+    </string>
+
+    <string name="text5">
+        <b>Visi</b>
+        \n\n
+        "Menjadi Program Studi Vokasional Unggul dalam Menghasilkan Karya Inovatif Berwawasan Lingkungan di Bidang
+        Konstruksi Jalan dan Jembatan Berbasis IPTEK dan Industri Konstruksi"
+        \n\n
+        <b>Misi</b>
+        \n\n
+        1. Menyelenggarakan Pendidikan Vokasional Berorientasi pada Aplikasi IPTEK dan Menghasilkan Lulusan
+        yang Terampil dan Profesional di Bidang Konstruksi Jalan dan Jembatan;
+        \n\n
+        2. Melaksanakan Penelitian Terapan di Bidang Konstruksi Jalan dan Jembatan Berbasis IPTEK dan Industri
+        Konstruksi;
+        \n\n
+        3. Melaksanakan Pengabdian kepada Masyarakat Melalui Transfer IPTEK sebagai Solusi Permasalahan di Bidang
+        Konstruksi Jalan dan Jembatan;
+        \n\n
+        4. Menyelenggarakan Kerjasama dengan Stakeholders dalam rangka Penguatan Kelembagaan secara Berkelanjutan
+        dan Profesional; dan
+        \n\n
+        5. Menyelenggarakan Pengelolaan Program Studi yang Akuntabel dan Transparan Berbasis Teknologi Informasi.
+    </string>
+
+    <string name="text6">
+        Capaian Pembelajaran Lulusan (CPL) Program Studi D-4 (Diploma Empat/Sarjana Terapan) Pengelolaan Perkebunan
+        Kopi (PPK) disusun berdasarkan Perpres Bomor 8 Tahun 2012 tentang Kerangka Kualifikasi Nasional Indonesia
+        (KKNI), Permendikbud Tahun 2020 tentang Standar Pendidikan Tinggi, Keputusan Menteri Ketenagakerjaan Nomor 308,
+        Tahun 2017 SKKNI Bidang Budidaya Kopi Berkelanjutan, Keputusan Menteri Ketenagakerjaan Nomor 102, Tahun 2018
+        SKKNI Kategori Industri Pengolahan Golongan Pokok Industri Makanan Bidang Industri Pengolahan Kopi, dengan
+        masukan dari pemangku kepentingan internal dan eksternal.
+
+    </string>
+
+    <string name="text7">
+        <b>Visi</b>
+        \n\n
+        Menjadi pusat penghasil lulusan yang bermutu, inovatif, dan unggul pada bidang perkebunan
+        \n\n
+        <b>Misi</b>
+        \n\n
+        1. Menghasilkan lulusan yang berakhlak mulia, terampil, disiplin, mandiri, dan memiliki kompetensi
+        dalam teknik budidaya, pengolahan hasil, transfer teknologi, dan entrepreneurship bidang perkebunan.
+        \n\n
+        2. Menghasilkan inovasi teknologi terapan bidang perkebunan yang mencakup level Tingkat Kesiapterapan
+        Teknologi 4 hingga 9.
+        \n\n
+        3. Memandu akselerasi transfer ilmu pengetahuan dan teknologi terapan bidang perkebunan kepada masyarakat.
+        \n\n
+        4. Menghasilkan sistem pengelolaan yang berbasis budaya akademik, organisasi, dan kerja yang berkarakter dan
+            beretika.
+        \n\n
+        5. Meningkatnya keberlanjutan kerjasama dengan dunia industri dan masyarakat perkebunan.
+    </string>
+
+    <string name="text8">
+        <b>Visi</b>
+        \n\n
+        Menjadi program studi yang bermutu, inovatif, dan unggul dalam menghasilkan sumberdaya manusia dengan
+        kompetensi produksi dan manajemen industri perkebunan yang dapat bersaing nasional.
+        \n\n
+        <b>Misi</b>
+        \n\
+        1. Menyelenggarakan pendidikan tinggi vokasi yang berorientasi pada akhlak mulia, terampil, disiplin, mandiri,
+        dan kompetitif berbasis produksi dan manajemen industri perkebunan.
+        \n\n
+        2. Melaksanakan kajian keilmuan dan penelitian terapan untuk menopang pendidikan dan pengajaran berbasis
+        produksi dan manajemen industri perkebunan.
+        \n\n
+        3. Melaksanakan pengabdian kepada masyarakat melalui transfer ilmu pengetahuan dan teknologi terapan
+        pada bidang produksi dan manajemen industri perkebunan.
+        \n\n
+        4. Menguatkan budaya akademik, organisasi, dan kerja yang berkarakter, dan beretika.
+        \n\n
+        5. Melaksanakan kerjasama bidang produksi dan manajemen industri perkebunandengan stakeholders.
+    </string>
+
+    <string name="text9">
+        <b>Visi</b>
+        \n\n
+        “Menjadi Program Studi Yang Bermutu, Unggul dan Berkarya Inovatif Pada Bidang Keteknikan Sumberdaya Air dan
+        Lingkungan“.
+        \n\n
+        <b>Misi</b>
+        \n\n
+        1. Mendidik peserta didik agar kompeten dan profesional di bidang geomatika, keteknikan sumberdaya air dan
+        lingkungan sesuai dengan industri dan dunia kerja
+        \n\n
+        2. Mengadakan penelitian dibidang geomatika, sumberdaya air dan lingkungan untuk menghasilkan paket teknologi
+        tepat guna bagi pengelolaan sumberdaya air dan lingkungan
+        \n\n
+        3. Menyelenggarakan pengabdian masyarakat di bidang geomatika, sumberdaya air dan lingkungan
+        \n\n
+        4. Menjalin kerjasama secara berkelanjutan dengan stakeholders dibidang geomatika, sumberdaya air dan lingkungan
+        \n\n
+        5. menyelenggarakan pengelolaan program studi yang akuntabel dan transparan berbasis teknologi informasi
+    </string>
+
+    <string name="text10">
+        <b>Visi</b>
+        \n\n
+        Pada Tahun 2020 Program Studi Mekanisasi Pertanian menjadi Program Studi bidang vokasi terbaik di Indonesia
+        \n\n
+        <b>Misi</b>
+        \n\n
+        1. Menyelenggarakan Program Pendidikan vokasi dalam bidang Mekanisasi Pertanian berbasis kompetensi,
+        \n\n
+        2. Melaksanakan penelitian terapan yang hasilnya langsung menyentuh para pengguna (industri)
+        \n\n
+        3. Melaksanakan pengabdian masyarakat dengan memberdayakan keunggulan sumberdaya pertanian wilayah melalui teknologi Mekanisasi Pertanian yang sesuai ad
+    </string>
+
+    <string name="text11">
+        <b>Visi</b>
+        \n\n
+        Pada Tahun 2020 Program Studi Teknologi Pangan Menjadi Program Diploma Unggulan dan Sentra Pengembangan
+        Produk Pangan di Wilayah Sumatra
+        \n\n
+        <b>Misi</b>
+        \n\n
+        1. Menyelenggarakan program diploma dalam bidang penanganan dan pengolahan pangan, quality control, dan
+        wirausaha yang profesional dan kompetitif
+        \n\n
+        2. Melaksanakan penelitian pengembangan produk pangan sesuai potensi daerah dalam menopang pendidikan dan
+        transfer IPTEKS guna meningkatkan kualitas kehidupan masyarakat
+        \n\n
+        3. Melaksanakan pengabdian kepada masyarakat dalam rangka mengembangkan potensi daerah melalui pengembangan
+        diversifikasi produk olahan pangan atas dasar tanggung jawab sosial demi kepentingan masyarakat
+    </string>
+
+    <string name="text12">
+        <b>Visi</b>
+        \n\n
+        Visi dari Program Studi Budidaya Perikanan “Menjadi Program Studi Vokasional yang bermutu, Inovatif, Unggul
+        dan berdaya saing Global dalam Bidang Pengembangan Teknologi Terapan Budidaya Perikanan”
+        \n\n
+        <b>Misi</b>
+        \n\n
+        1.	Menyelenggarakan pendidikan vokasional yang berorientasi kepada ahlak mulia, terampil, disiplin, mandiri dan profesional dalam bidang budidaya perikanan
+        \n\n
+        2.	Melaksanakan kajian keilmuan dan penelitian terapan untuk menopang pendidikan dan pengajaran dalam bidang
+        budidaya perikanan
+        \n\n
+        3.	Melaksanakan pengabdian kepada masyarakat melalui transfer ilmu pengetahuan dan teknologi terapan dalam
+        bidang budidaya perikanan
+        \n\n
+        4.	Meningkatkan budidaya akademik, organisasi, dan kerja yang berkarakter dan beretika
+        \n\n
+        5.	Menjalin kerjasama kemitraan dengan stakeholder bidang budidaya perikanan
+    </string>
+
+    <string name="text13">
+        <b>Visi</b>
+        \n\n
+        Program Studi Perikanan Tangkap : ”Menjadi Program studi yang bermutu, inovatif dan Unggul dalam Ilmu
+        Pengetahuan dan Teknologi Di Bidang Perikanan Tangkap”.
+        \n\n
+        <b>Misi</b>
+        \n\n
+        Menyelenggarakan Pendidikan pada Program Studi Perikanan Tangkap yang bertanggung jawab dan berwawasan
+        lingkungan, Mengembangkan Kualitas pengajaran sesuai perkembangan,Meningkatkan kualitas dan kuantitas
+        aplikasi IPTEK, Melaksanakan Penelitian terapan dan pengabdian guna meningkatkan kualitas kehidupan masyarakat,
+        Menjalin kerjasama secara berkelanjutan dengan stakeholder.
+    </string>
+
+    <string name="text14">
+        <b>Visi</b>
+        \n\n
+        Menjadi program studi yang unggul dalam menghasilkan Process Engineer Industri Pertanian yang berkarakter
+        dan Berkualitas.
+        \n\n
+        <b>Misi</b>
+        \n\n
+        1. Menyiapkan lulusan untuk menjadi tenaga kerja yang profesional dan beretika, dengan menjunjung tinggi
+        nilai-nilai kejujuran dalam sikap dan perbuatan
+        \n\n
+        2. Melaksanakan proses pendidikan vokasi Diploma IV dengan proses terencana dan terkontrol sehingga menghasilkan
+        lulusan yang memiliki keterampilan dan kompetensi dan siap bersaing di industri kimia dan industri pertanian
+        \n\n
+        3. Melatih peserta didik untuk terbiasa dalam kegiatan penelitian dan pengembangan ilmu dibidang rekayasa kimia
+        industri dengan memanfaatkan sumber daya alam lokal baik bahan mentah maupun limbah hasil industri kimia dan pertanian
+    </string>
+
+    <string name="text15">
+        <b>Visi</b>
+        \n\n
+        Menjadi program studi yang unggul dan inovatif dalam bidang pengembangan produk agroindustri hilir pengolahan
+        melalui proses teknologi, produksi, dan manajemen pusat pengembangan teknologi rekayasa ilmu terapan.
+        \n\n
+       <b> Misi</b>
+        \n\n
+        1. Menyelenggarakan pendidikan dalam bidang pengembangan produk agroindustri berbasis pada sistem penerapan
+        dan pengembangan proses teknologi, produksi dan manajemen.
+        \n\n
+        2. Melaksanakan Penelitian Terapan dalam rangka mengembangkan potensi dibidang agroindustri pada pengembangan
+        proses teknolog, produksi dan manajemen
+        \n\n
+        3. Melaksanakan PKM dalam rangka mengembangkan potensi daerah pada pengembangan proses, teknologi, produksi
+        dan manajemen agroindustry
+    </string>
+
+    <string name="text16">
+        <b>Tunggu informasi terbaru yaa!</b>
+    </string>
+
+    <string name="text17">
+        <b>Visi</b>
+        \n\n
+        Menjadi program studi vokasional yang bermutu, inovatif, berdaya saing global dan unggul dalam bidang Produksi
+        Ternak.
+        \n\n
+        <b>Misi</b>
+        \n\n
+        1. Menyelenggarakan pendidikan tinggi vokasi yang berorientasi pada akhlak mulia, terampil, disiplin, mandiri
+        dan kompetitif
+        \n\n
+        2. Melaksanakan penelitian terapan bidang petenakan untuk menunjang pendidikan dan transfer IPTEKS guna
+        meningkatkan kualitas kehidupan masyarakat.
+        \n\n
+        3. Meningkatkan pengabdian kepada masyarakat dalam mendayagunakan keunggulan sumberdaya peternakan wilayah
+        melalui penerapan teknologi tepat guna atas dasar tanggung jawab sosial demi kepentingan masyarakat.
+        \n\n
+        4. Menjalin kerjasama yang berkualitas dan berkelanjutan dengan stake holder dibidang peternakan.
+        \n\n
+        5. Menyelenggarakan kegiatan akademik yang sehat dengan manajemen yang transparan
+    </string>
+
+    <string name="text18">
+        <b>Visi</b>
+        \n\n
+        Menjadi Program Studi Vokasional yang Bermutu, Inovatif, Unggul dan Berdaya Saing Global dalam Bidang Teknologi
+        Pembenihan Ikan
+        \n\n
+        <b>Misi</b>
+        \n\n
+        1. Menyelenggarakan pendidikan  vokasi  yang  berorientasi  kepada  ahlak mulia, terampil, disiplin, mandiri
+        dan professional dalam bidang teknologi pembenihan ikan;
+        \n\n
+        2. Melaksanakan kajian keilmuan dan penelitian terapan untuk menopang pendidikan dan pengajaran dalam bidang
+        teknologi pembenihan ikan;
+        \n\n
+        3. Melaksanakan pengabdian kepada masyarakat melalui transfer ilmu pengetahuan dan teknologi terapan di bidang
+        teknologi pembenihan ikan;
+        \n\n
+        4. Membentuk peserta didik menjadi masyarakat yang  produktif dan profesional, dengan wawasan wirausaha, tangguh
+        dan mandiri, untuk menciptakan lapangan pekerja dan;
+        \n\n
+        5. Membuka, mengembangkan dan memperkuat kerjasama dengan industri perikanan yang ada termasuk instansi
+        pemerintah dan masyarakat perikanan.
+    </string>
+
+    <string name="text19">
+        <b>Visi</b>
+        \n\n
+        Menjadi Program Studi  Vokasional yang Bermutu, Inovatif, Unggul dan Berdaya Saing Global dalam
+        Bidang Teknologi Produksi Ternak.
+        \n\n
+        <b>Misi</b>
+        \n\n
+        1. Menyelenggarakan pendidikan program D4 berbasis penelitian terapan yang berorientasi pada  akhlak mulia,
+        disiplin, mandiri, dan kompetitif, serta terampil mengaplikasikan ilmu teknologi produksi ternak dalam
+        pengembangan industri peternakan yang dilandasi jiwa kewirausahaan.
+        \n\n
+        2. Menerapkan ilmu pengetahuan dan inovasi teknologi produksi ternak melalui  penelitian terapan untuk
+        menunjang pendidikan dan transfer IPTEKS guna meningkatkan kualitas kehidupan masyarakat.
+        \n\n
+        3. Meningkatkan pengabdian kepada masyarakat dalam mendayagunakan keunggulan sumberdaya peternakan wilayah
+        melalui penerapan teknologi tepat guna atas dasar tanggung jawab sosial demi kepentingan masyarakat.
+        \n\n
+        4. Menjalin kerjasama dengan stake holder dibidang peternakan yang berkelanjutan.
+        \n\n
+        5. Menyelenggarakan kegiatan akademik yang sehat dengan manajemen yang transparan.
+    </string>
+
+    <string name="text20">
+        <b>Visi</b>
+        \n\n
+        Tahun 2025 menjadi program studi yang menghasilkan sumber daya manusia bermutu, inovatif  dan
+        berdaya bersaing dalam ilmu pengetahuan dan teknologi terapan bidang sistem informasi.
+        \n\n
+        <b>Misi</b>
+        \n\n
+        1. Menyelenggarakan pendidikan vokasi di bidang informatika yang berorientasi pada akhlak mulia,
+        terampil, inovatif, disiplin, mandiri dan berdaya saing.
+        \n\n
+        2. Melaksanakan penelitian terapan di bidang informatika untuk meningkatkan kualitas kehidupan masyarakat.
+        \n\n
+        3. Melaksanakan pengabdian kepada masyarakat atas dasar tanggung jawab sosial demi kepentingan masyarakat.
+        \n\n
+        4. Menjalin kerja sama berkelanjutan dengan pemangku kepentingan dalam rangka peningkatan kualitas
+        tridharma perguruan tinggi.
+        \n\n
+        5. Mengembangkan tata kelola organisasi yang sehat dengan manajemen transparan.
+    </string>
+
+    <string name="text21">
+        <b>Visi</b>
+        \n\n
+        Menjadi Program Studi penghasil sumber daya manusia profesional yang berintegritas, kreatif dan
+        kompetitif di bidang Perjalanan Wisata.
+        \n\n
+        <b>Misi</b>
+        \n\n
+        1. Menyelenggarakan program pendidikan Perjalanan Wisata jenjang D3 dengan kurikulum yang
+        mengacu pada SN-PT dan dilandasi oleh nilai-nilai keimanan kepada Tuhan Yang Maha Esa.
+        \n\n
+        2. Menyiapkan tenaga profesional dan wirausahawan bidang pariwisata yang berdaya saing nasional dan global.
+        \n\n
+        3.Menyelenggarakan penelitian di bidang pariwisata sesuai perkembangan ilmu pengetahuan dan teknologi.
+        \n\n
+        4. Menyelenggarakan pengabdian kepada masyarakat untuk mengembangkan pariwisata sesuai budaya dan kearifan lokal.
+        \n\n
+        5. Menjalin kerjasama secara berkelanjutan dengan pemangku kepentingan di bidang pariwisata.
+    </string>
+
+    <string name="text22">
+        <b>Visi</b>
+        \n\n
+        Menjadi program studi vokasi yang bermutu, inovatif, dan unggul dalam ilmu pengetahuan dan teknologi
+        terapan bidang ilmu akuntansi.
+        \n\n
+        <b>Misi Program Studi adalah:</b>
+        \n\n
+        1. Menyelenggarakan program pendidikan akuntansi vokasi yang berorientasi pada akhlak mulia, terampil,
+        disiplin, mandiri, dan
+        \n\n
+        2. Melaksanakan kajian keilmuan dan penelitian terapan untuk menopang pendidikan dan
+        \n\n
+        3. Melaksanakan pengabdian kepada masyarakat melalui transfer ilmu pengetahuan dan teknologi
+        \n\n
+        4. Menguatkan budaya akademik, organisasi, dan kerja yang berkarakter dan
+        \n\n
+        5. Menjalin kerjasama secara berkelanjutan dengan pihak
+    </string>
+
+    <string name="text23">
+        <b>Visi</b>
+        \n\n
+        Menjadi Program Studi Pendidikan Vokasi penghasil sumber daya manusia profesional yang
+        berintegritas dan berdaya saing kompetitif di bidang Akuntansi dan Perpajakan
+        \n\n
+        <b>Misi</b>
+        \n\n
+        1. Menyelenggarakan program pendidikan akuntansi perpajakan jenjang D4 dengan kurikulum yang mengacu
+        pada SN-PT dan dilandasi oleh nilai-nilai keimanan kepada Tuhan Yang Maha Esa
+        \n\n
+        2. Menyelenggarakan penelitian terapan di bidang akuntansi perpajakan sesuai perkembangan ilmu pengetahuan
+        dan teknologi
+        \n\n
+        3. Menyelenggarakan pengabdian kepada masyarakat untuk membantu peningkatan kesejahteraan masyarakat
+        dalam menunjang pembangunan nasional
+        \n\n
+        4. Menjalin kerjasama secara berkelanjutan dengan stakeholder
+    </string>
+
+    <string name="text24">
+       <b>Visi PS Agribisnis:</b>
+        \n\n
+        “Tahun 2020  Menjadi Program Studi Vokasi Bidang Agribisnis Yang Unggul Di Indonesia”
+        \n\n
+        1. Unggul mengandung arti PS Agribisnis melakukan kegiatan akademik dan non akademik sesuai dengan
+        standar Nasional Pendidikan dan mencapai nilai akreditasi A dari BAN-PT (Badan Akreditasi Perguruan Tinggi).
+        \n\n
+        <b>Misi PS Agribisnis:</b>
+        \n\n
+        1. Menyelenggarakan pendidikan vokasi yang berorientasi kepadaintegritas, kejujuran, terampil, disiplin,
+        mandiri dan profesional.
+        \n\n
+        2. Melaksanakan penelitian terapandan pengabdian masyarakat dalam bidang agribisnis guna meningkatkan
+        kualitas sumberdaya manusia dan perbaikan kehidupan sosial ekonomi masyarakat.
+        \n\n
+        3. Membentuk  peserta didik menjadi masyarakat yang  produktif, kreatif, dan  profesional,serta berorientasi
+        wirausaha untuk menciptakan lapangan pekerjaan.
+        \n\n
+        4. Membuka, mengembangkan dan memperkuat kerjasama dengan instansi pemerintah, perusahaan agribisnis  dan
+        masyarakat pertanian.
+    </string>
+
+    <string name="text25">
+        <b>Visi Program Studi Pengelolaan Agribisnis (Agribusiness Management)</b>
+        \n\n
+        “Menjadi Program Studi Vokasi Bidang Pengelolaan Agribisnis (Agribusiness Management) yang Terintegrasi,
+        berkarakter kewirausahaan, dan unggul dalam ilmu pengetahuan dan teknologi terapan”
+        \n\n
+        Indikator terintegrasi, berkarakter kewirausahaan, dan unggul dalam ilmu pengetahuan dan teknologi
+        terapan dapat dideskripsikan:
+        \n\n
+        1. Terintegrasi diartikan sebagai sebuah sistem agribisnis yang diintegrasikan antara praktik produksi
+        tanaman, ikan, dan hewan menggunakan prinsip ekologi dan sosial ekonomi.
+        \n\n
+        2. Berkarakter kewirausahaan diartikan memiliki ciri khas seorang wirausaha/entrepreneur yaitu jujur,
+        berintegritas, melaksanakan etika bisnis, dan mampu membuat lapangan kerja.
+        \n\n
+        3. Unggul diartikan mempunyai kemampuan lebih di bidang Pengelolaan Agribisnis (Agribusiness Management)
+        dan memiliki hasil akreditasi A.
+        \n\n
+        <b>Misi Program Studi Pengelolaan Agribisnis (Agribusiness Management)</b>
+        \n\n
+        Penjabaran dari visi dituangkan ke dalam misi yang dilaksanakan oleh Program Studi Pengelolaan
+        Agribisnis (Agribusiness Management) yaitu:
+        \n\n
+        1. Mewujudkan pendidikan vokasi bidang Pengelolaan Agribisnis (Agribusiness Management) yang berkelanjutan,
+        berorientasi kepada integritas, kejujuran, terampil, disiplin, dan mandiri.
+        \n\n
+        2. Mewujudkan penelitian terapan dan pengabdian masyarakat dalam bidang Pengelolaan Agribisnis (Agribusiness
+        Management) yang berkelanjutan guna meningkatkan kualitas sumberdaya manusia dan perbaikan kehidupan sosial
+        ekonomi masyarakat.
+        \n\n
+        3. Membentuk peserta didik menjadi masyarakat ilmiah yang  produktif, kritis, kreatif dan inovatif,
+        serta berorientasi wirausaha untuk menciptakan lapangan pekerjaan.
+        \n\n
+        4. Membuka, mengembangkan, dan memperkuat kerjasama dengan dunia usaha-dunia industri, instansi pemerintah,
+        dan masyarakat pertanian menuju SDG (Sustainable Development Goals).
+    </string>
+
+    <string name="text26">
+        <b>Visi Program Studi</b>
+        \n\n
+        Menjadi program studi unggulan penghasil sumber daya manusia yang unggul, terampil, cekatan, dan berdaya
+        saing tinggi dalam industri perhotelan yang berskala nasional dan internasional.
+        \n\n
+        <b>Misi Program Studi</b>
+        \n\n
+        1. Menyelenggarakan pendidikan dan pelatihan sesuai dengan kurikulum yang memiliki basis kompetensi pada
+        industri perhotelan
+        \n\n
+        2. Melibatkan sektor industri perhotelan terkait dalam proses pengajaran praktik.
+        \n\n
+        3. Menyediakan sarana laboratorium dalam kampus untuk menunjang praktikum mahasiswa
+        \n\n
+        4. Menjalin kerjasama dengan asosiasi profesi dan pemangku kepentingan dalam sektor perhotelan baik
+        di dalam negeri atau diluar negeri
+    </string>
+    <string name="admpajak">
+        Program Studi D2 Administrasi Perpajakkan yaitu mampu menghasilkan lulusan yang terampil, kompeten dalam Menyusun laporan pajak sesuai dengan peraturan dan ketentuan perpajakan serta mampu menyelesaikan masalah administrasi perpajakkan.
+        \n\n
+        Keunggulan Program studi D2 Administrasi Perpajakan Jalur Cepat ditinjau dari pengembangan keahlian yaitu:
+\n\n
+        1.	Memiliki karakter dalam bidang keahlian Administrasi Perpajakan
+\n\n
+        2.	Program studi D2 Administrasi Perpajakan Jalur Cepat menjalin Kerjasama dengan beberapa bidang ilmu yang berkaitan dalam satu rumpun
+\n\n
+        3.	Program studi D2 Administrasi Perpajakan Jalur Cepat menjalin Kerjasama dengan berbagai pihak dari dunia usaha dan dunia industri dan Kerjasama dengan pihak SMK (Sekolah Menengah Kejuruan).
+\n\n
+        4.	Program studi D2 Administrasi Perpajakan Jalur Cepat mempunyai bidang fokus dalam keahlian komputerisasi dan Administrasi
+
+    </string>
+    <string name="tanaman_organik">
+       <b>Tunggu informasi terbaru yaa!</b>
+    </string>
+</resources>
